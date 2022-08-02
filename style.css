@@ -1,0 +1,34 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+
+body {
+    min-height: 100vh;
+    background: rgb(211, 145, 205);
+    color: rgb(182, 196, 55);
+    display: grid;
+    place-items: center;
+
+}
+
+section {
+    background: rgba(156, 2, 170, 0.4);
+    padding: 60px;
+    border-radius: 5px;
+    border-style: double;
+    text-align: center;
+
+}
+
+p{
+    font-size: 100px;
+}
+
+button{
+    color: rgb(182,196, 55);
+    font-style: italic;
+    background-color: rgb(136, 67, 136)
+    
+}
